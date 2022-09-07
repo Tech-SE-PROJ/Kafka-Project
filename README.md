@@ -7,3 +7,4 @@
 5. Unsure of language to use for API - using coinmarket API though
 6. Need regular pushing and pulling to and from Git
 7. Need program to link API to MariaDB and redirect to Kafka/Confluent
+8. temp - TBA
