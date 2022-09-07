@@ -2,7 +2,7 @@
 
 1. Learn Kafka
 2. Learn about Confluent storage
-3. Learn MariaDB
+3. Learn MariaDB/MongoDB as alt
 4. Will use Docker for API
 5. Unsure of language to use for API - using coinmarket API though
 6. Need regular pushing and pulling to and from Git
