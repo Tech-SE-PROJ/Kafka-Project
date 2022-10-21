@@ -1,0 +1,10 @@
+api: LUUOCJL6PXRBIRHM
+secret: PYmpl1U5Nz4dTY4c0PlsrPP/ZZzsDcwWBZwTrfU0DOoyjzEh1rPmthr18UIxrKiw
+
+
+basic auth:
+FZS34LZM5GFCKJB7
+trflr169oQTQjM5ERNm9wbPfElOwFKkgVKeK0B7peDMbmipau29iAZiWITOtudCM
+
+endpoint: https://pksqlc-w6265.us-east-2.aws.confluent.cloud:443
+cluster/account ID?: lksqlc-yovk8j
